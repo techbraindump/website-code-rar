@@ -1,4 +1,8 @@
 # AI VOICE ASSISTANT
+<img width="64" height="64" src="https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/64/external-ai-digital-business-photo3ideastudio-gradient-photo3ideastudio.png" alt="external-ai-digital-business-photo3ideastudio-gradient-photo3ideastudio"/>
+<img width="64" height="64" src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/external-llama-peru-icongeek26-outline-colour-icongeek26.png" alt="external-llama-peru-icongeek26-outline-colour-icongeek26"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/medium-volume--v1.png" alt="medium-volume--v1"/>
+<img width="64" height="64" src="https://img.icons8.com/external-xnimrodx-lineal-xnimrodx/64/external-assistant-communication-xnimrodx-lineal-xnimrodx.png" alt="external-assistant-communication-xnimrodx-lineal-xnimrodx"/>
 
 to start run [__init__.py](__init__.py)
 it will rum [main.py](main.py)
