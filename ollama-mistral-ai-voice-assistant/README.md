@@ -15,4 +15,6 @@ and run `ollama pull mistral` that is the used ai
 install python modules
 `pip install gTTS ollama pydub speech_recognition time os` 
 
+followrd this tutorial but made some changes so it would work with ollama
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAKpMYOlttA?si=c9edlKf8LHtwybdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
